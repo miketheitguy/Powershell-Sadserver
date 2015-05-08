@@ -1,8 +1,6 @@
 # Powershell-Sadserver
 Bring a little @sadserver to your Windows Servers!
 
-MUST USE POWERSHELL V5.
-
 You will need to generate a Twitter API Key for your Twitter account for this powershell script to work.
 
 1. Go to https://apps.twitter.com/ and generate a Consumer Key and Consumer Secret
